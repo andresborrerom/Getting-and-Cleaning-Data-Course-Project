@@ -3,7 +3,7 @@ Code Book for Samsung Tidy
 
 ## Names Substrings
 
-freq: frequency 
+freq: frequency  <br/>
 gyro: gyroscope
 acc: accelerometer
 mean: mean of the initial measurements
